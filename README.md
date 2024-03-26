@@ -44,8 +44,8 @@ Page displays invoice history to keep track of previous services in one place. T
 #### PI list
 Part for displaying PI's information. There is an option to add new PIs and edit the current ones. There are filtering and deletion options available.
    
-### Core C
-In progress...
+### Core C 
+This part was developed by an intern as his own project that I was supervising. At the time of me leaving, this part was still under development.        
 
 ## Reader
 Extension to read specific .csv data files. Orders from the CAIPP request Google form are parsed byt his module to keep the prefered format for data edition and display and to keep the .csv updatable by keeping it in the same format as it is downloaded from the Google form.  
